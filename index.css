@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+p {
+    display: flex;
+    flex-direction: column;
+    background-color: #f0f0f0;
+    border: 1px solid ;
+    margin: 0px;
+}
